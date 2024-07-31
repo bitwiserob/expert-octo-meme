@@ -80,3 +80,4 @@ Werkzeug==3.0.3
 wsproto==1.2.0
 yarl==1.9.4
 yfinance==0.2.41
+gunicorn
